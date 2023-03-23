@@ -10,7 +10,7 @@
                 this.$emit("update:activeIndex", index)
             }
         }
-};
+}
 </script>
 <template>
     <ul class="list-group">
