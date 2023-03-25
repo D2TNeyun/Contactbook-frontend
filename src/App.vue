@@ -21,6 +21,5 @@ export default {
 .page {
   max-width: 600px;
   margin: auto;
-  
 }
 </style>
